@@ -2,6 +2,10 @@
 
 Script nho nhỏ viết bằng Go để crawl toàn bộ điểm thi THPTQG-2024, được clone và chỉnh sửa lại từ [script của năm 2021](https://github.com/balldk/crawlscore-thptqg-2021).
 
+**Điểm crawl sẵn:** [release/latest](https://github.com/balldk/crawlscore-thptqg-2024/releases/latest)</br>
+**Dữ liệu nguồn:** [Vietnamnet](https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-thi-tot-nghiep-thpt)</br>
+**Note:** Không khuyến khích chạy script vì web khá yếu, nhiều người chạy thì web sẽ sập.
+
 ## Yêu cầu
 
 1. Đã tải source về
