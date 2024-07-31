@@ -51,7 +51,6 @@ func (score *Score) String() string {
 		formatScore(score.History),
 		formatScore(score.Geography),
 		formatScore(score.Civic),
-		formatScore(score.SocialScience),
 		formatScore(score.Language),
 	}
 	return strings.Join(str, ",")
